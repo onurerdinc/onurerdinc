@@ -1,4 +1,7 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Onur</h1>
+
+<h3 align="center">A passionate software developer</h3>
+
 
 <!--
 **onurerdinc/onurerdinc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
