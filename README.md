@@ -3,7 +3,7 @@
 <h3 align="center">A passionate software developer</h3>
 
 
-<h2>Currently learning Java Script </h2>
+<p>Currently learning Java Script </p>
 
 
 <!--
