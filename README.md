@@ -3,6 +3,8 @@
 <h3 align="center">A passionate software developer</h3>
 
 
+<h2>Currently learning Java Script </h2>
+
 
 <!--
 **onurerdinc/onurerdinc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
