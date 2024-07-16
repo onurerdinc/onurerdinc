@@ -1,6 +1,7 @@
-<h1 align="center">Hi 👋, I'm Onur</h1>
+<h1 align="center">Hello 👋, I'm Onur</h1>
 
 <h3 align="center">A passionate software developer</h3>
+
 
 
 <!--
