@@ -2,21 +2,17 @@
 
 <h3 align="center">A passionate software developer</h3>
 
+Welcome to my GitHub profile! I'm a passionate full stack developer transitioning from a successful career in civil engineering to the exciting world of software development. With 9 years of experience in civil engineering and a strong STEM background, I bring a unique perspective to my coding projects.
 
+## 🚀 About Me
+- 🔭 I’m currently working on various web development projects.
+- 🌱 I’m currently learning JavaScript, React, and Node.js.
+- 💬 Ask me about web development, civil engineering, or anything tech-related!
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/onurerdinc/)
 
-
-
-<!--
-**onurerdinc/onurerdinc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Technologies & Tools
+- **Languages:** JavaScript, HTML, CSS
+- **Frontend:** React, Redux
+- **Backend:** Node.js, Express.js
+<! --  **Databases:** MongoDB, SQL
+- **Other:** Git, Webpack, Docker -->
