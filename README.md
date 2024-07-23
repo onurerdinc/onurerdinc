@@ -12,7 +12,4 @@ Welcome to my GitHub profile! I'm a passionate full stack developer transitionin
 
 ## 🛠️ Technologies & Tools
 - **Languages:** JavaScript, HTML, CSS
-- **Frontend:** React, Redux
-- **Backend:** Node.js, Express.js
-<! --  **Databases:** MongoDB, SQL
-- **Other:** Git, Webpack, Docker -->
+
