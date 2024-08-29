@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I'm a passionate full stack developer transitionin
 
 ## 🚀 About Me
 - 🔭 I’m currently working on various web development projects.
-- 🌱 I’m currently learning JavaScript, React, and Node.js.
+- 🌱 I’m currently learning React.
 - 💬 Ask me about web development, civil engineering, or anything tech-related!
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/onurerdinc/)
 
