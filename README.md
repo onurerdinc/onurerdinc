@@ -15,8 +15,3 @@ Welcome to my GitHub profile! I'm a passionate full stack developer transitionin
 
 - ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=onurerdinc&layout=compact&theme=default)
 
-![Profile Views](https://komarev.com/ghpvc/?username=onurerdinc)
-
-![Onur's GitHub Stats](https://github-readme-stats.vercel.app/api?username=onurerdinc&show_icons=true&theme=default)
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=onurerdinc&theme=default)
