@@ -13,3 +13,5 @@ Welcome to my GitHub profile! I'm a passionate full stack developer transitionin
 ## 🛠️ Technologies & Tools
 - **Languages:** JavaScript, HTML, CSS
 
+![Onur's GitHub Stats](https://github-readme-stats.vercel.app/api?username=onurerdinc&show_icons=true&theme=default)
+
