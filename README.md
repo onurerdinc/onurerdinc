@@ -1,6 +1,6 @@
 # Hello World 👋, I'm Onur
 
-Welcome to my GitHub profile! I'm a passionate full stack developer transitioning from a successful career in civil engineering to the exciting world of software development. With 9 years of experience in civil engineering and a strong STEM background, I bring a unique perspective to my coding projects.
+A passionate full stack developer transitioning from a successful career in civil engineering to the exciting world of software development. With 9 years of experience in civil engineering and a strong STEM background, I bring a unique perspective to my coding projects.
 
 ---
 
