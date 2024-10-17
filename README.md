@@ -1,20 +1,8 @@
 
-# Hello World 👋, I'm Onur
+# Hi there 👋
 
-I'm a passionate Full Stack Developer transitioning from a successful career in civil engineering to the exciting world of software development. With 9 years of experience in civil engineering and a strong STEM background, I bring a unique perspective to my coding projects.
-
----
-
-## 🚀 About Me
-- 🔭 Currently working on various web development projects.
-- 🌱 Actively learning React and diving into back-end technologies like MongoDB, Node.js, and Express.js.
-- 💬 Feel free to ask me about web development, civil engineering, or anything tech-related!
-
----
-
-## 🌟 Current Focus and Goals:
-- 🌱 Learning back-end technologies and building dynamic web applications.
-- 🎯 Aiming to become a well-rounded Full Stack Developer.
+Driven Full Stack Software Engineer with project management experience. I am passionate about leveraging my diverse background to deliver efficient and impactful web solutions. 
+My unique perspective combines technical proficiency with a strong focus on collaboration and leadership, ensuring the successful execution of projects that align with strategic objectives.
 
 ---
 
@@ -39,6 +27,6 @@ I'm a passionate Full Stack Developer transitioning from a successful career in 
 
 ---
 
-## 📫 How to Reach Me
+## 📫 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/onurerdinc)
